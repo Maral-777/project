@@ -1,0 +1,1303 @@
+.header{
+    width: 100%;
+    margin-top: 20px;
+}
+.logo{
+    display: flex;
+    margin-top: 20px;
+
+}
+.menu{
+    margin-left: 50px;
+}
+.nav-link1{
+    color:blue;
+    font-size: 20px;
+    text-decoration: none;
+}
+.nav-link{
+    color: black;
+    font-size: 20px;
+}
+.nav-link1{
+    margin-top: 5px;
+
+}
+.wpw{
+    font-size: 20px;
+    font-weight: bolder;
+    color: blue;
+    border: 4px solid blue;
+    border-radius: 10px;
+    height: 50px;
+}
+.active{
+    margin-top: 6px;
+    display: block;
+    font-size: 22px;
+}
+.goodsite{
+    display: flex;
+    margin-top: 200px;
+}
+.text1{
+    width: 1000px;
+    font-size: 90px;
+    font-weight: bolder;
+    color: black;
+    font-family:'Roboto', sans-serif; ;
+}
+.text2{
+    width: 1000px;
+    font-size: 40px;
+    color: black;
+    font-weight: 500;
+    margin-top: 50px;
+}
+.text3{
+    width: 950px;
+    font-size: 30px;
+    margin-top: 50px;
+}
+.client{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.hand{
+    margin-top: 330px;
+}
+.help .check{
+width: 1000px;
+font-size: 20px;
+font-weight: bolder;
+margin-top: 50px;
+margin-left: 170px;
+}
+.help{
+    height: 680px;
+}
+.points{
+    background-color:#4832F4;
+    height: 1350px;
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    
+
+}
+.nav-link1{
+    color:black;
+    font-size: 25px;
+    height: 50px;
+}
+.what{
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    font-weight: bolder;
+}
+.steps{
+    width: 500px;
+    font-size: 40px;
+    color: white;
+    font-weight: 30px;
+    margin-top: 80px;
+    
+}
+.weoffer{
+    width: 100%;
+    height: 1500px;
+}
+.nav-item1 li{
+   
+    border-radius: 50px;
+}
+.mypoints{
+    display: block;
+}
+.mypoints:hover{
+    color:orange;
+}
+.mylink:hover{
+    color:orange !important;
+}
+.nav-link1{
+    color: white;
+    display: block;
+    margin-top: 10px;
+
+}
+.wecan{
+    width: 500px;
+    font-size: 70px;
+    font-weight: bolder;
+    color: #4832F4;
+    margin-left: 170px;
+    margin-top: 100px;
+}
+.if{
+    color: black;
+}
+.lamp{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.text4{
+    font-size: 40px;
+    width:300px;
+    color:white;
+}
+.text5{
+    margin-top: 100px;
+    font-size: 40px;
+    width:600px;
+    color:white;
+}
+.pic2{
+    margin-top: 300px;
+}
+.We{
+    font-size: 70px;
+    font-weight: bolder;
+    text-align: center;
+
+}
+.adventures{
+    display: flex;
+    margin-top: 100px;
+}
+.p5{
+    background-color:#4832F4;
+    width: 300px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.p6{
+    margin-top: 70px;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 50px;
+
+}
+.parts{
+    justify-content: center;
+    margin-top: 80px;
+    background-color:whitesmoke ;
+}
+.list li{
+margin-top: 30px;
+font-size: 20px;
+font-weight: bolder;
+width: 400px;
+margin-left: 50px;
+}
+.p7{
+    width: 300px;
+    font-size: 25px;
+   font-weight: bolder;
+    text-align: center;
+    margin-top: 160px;
+}
+.parts1{
+    
+    margin-top: 80px;
+    background-color:whitesmoke ;
+}
+.p8{
+    background-color:#4832F4;
+    width: 300px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.main3{
+    margin-left: 180px;
+}
+.p9{
+    margin-top: 100px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.myphp{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.My{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.myredis{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.mymem{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.mynix{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.myapach{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+
+}
+.mycdn{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+
+}
+.php{
+    margin-top: 100px;
+}
+.my{
+    margin-top: 50px;
+}
+.redis{
+    margin-top: 50px;
+}
+.mem{
+    margin-top: 50px;
+}
+.nix{
+    margin-top: 50px;
+}
+.apach{
+    margin-top: 50px;
+}
+.cdn{
+    margin-top: 50px;
+}
+.parts2{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.p10{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.discription1{
+margin-top: 100px;
+}
+.myhtml{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.mycss{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.myjava{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.mygulp{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.mygrunt{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.myweb{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.mygut{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.plagins{
+    margin-top: 80px;
+    background-color:whitesmoke ;
+}
+.myplagin{
+    background-color:#4832F4;
+    width: 300px;
+    margin-top: 50px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    
+}
+.nuances{
+    margin-top: 80px;
+    background-color:whitesmoke ;
+}
+.mynuances{
+    background-color:#4832F4;
+    width: 300px;
+    margin-left: 70px;
+    margin-top: 50px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.lastnuance{
+    margin-left: 100px;
+}
+.approach{
+    margin-top: 150px;
+    font-size: 23px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 100px;
+}
+.nuance li{
+    width: 500px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.myplagins{
+    margin-left: 170px;
+}
+.interesting{
+    margin-top: 110px;
+    font-size: 23px;
+    font-weight: bolder;
+    margin-left: 90px;
+}
+.research li{
+    width: 500px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.list3 li{
+    margin-top: 30px;
+font-size: 20px;
+font-weight: bolder;
+width: 400px;
+margin-left: 50px;
+}
+.list1 li{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+    width: 400px;
+    margin-left: 50px;
+}
+.mykey{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bolder;
+    color: white;
+    margin-top: 80px;
+}
+.myadd{
+    font-size: 60px;
+}
+.nuances{
+    display: flex;
+}
+.nuance li{
+    width: 500px;
+    font-size: 20px;
+    margin-top: 40px;
+    font-weight: bolder;
+}
+.mykeys{
+    background-color:#4832F4;
+    justify-content: center;
+}
+.key{
+    background-color:#4832F4;
+}
+.keys{
+    width: 400px;
+    color: white;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+.h1{
+    width: 420px;
+    font-size:30px;
+}
+.h2{
+    margin-top: 50px;
+    font-size: 20px;
+    width: 350px;
+}
+.h3{
+    width: 420px;
+    font-size:30px;
+    margin-top: 70px;
+}
+.h4{
+    margin-top: 50px;
+    font-size: 20px;
+    width: 350px;
+}
+.mymin{
+    width: 420px;
+    font-size:30px;
+    margin-top: 70px;
+    color: white;
+}
+.documents{
+    margin-top: 70px;
+    font-size: 20px;
+    width: 350px;
+    color: white;
+}
+.colaboration{
+    width: 420px;
+    font-size:30px;
+    font-weight: bolder;
+    margin-top: 80px;
+    color: white;
+}
+.h5{
+    margin-top: 50px;
+    font-size: 20px;
+    width: 350px;
+    color: white;
+}
+.add{
+    background-color: whitesmoke;
+   
+}
+.rules{
+    justify-content: center;
+}
+.experience{
+    background-color:whitesmoke;
+    height: 1100px;
+}
+.h6{
+    width: 320px;
+    font-size: 20px;
+    padding-left: 40px;
+    color: black;
+}
+.h7{
+    width: 320px;
+    height: 220px;
+    font-size: 17px;
+    margin-top: 20px;
+    padding-left: 40px;
+    color: black;
+}
+.h8{
+    width:60px ;
+    font-size: 20px;
+    font-size: 20px;
+  padding-left: 40px;
+    font-weight: bolder;
+}
+.h9{
+    width: 320px;
+    padding-left: 40px;
+   margin-top: 20px;
+    font-size: 17px;
+   
+}
+.h10{
+    width:320px ;
+    font-size: 20px;
+    color: black;
+   padding-left: 40px;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+.h11{
+    width: 320px;
+    color: black;
+    height: 100px;
+    font-size: 17px;
+    margin-top: 20px;
+    padding-left: 40px;
+  
+}
+.time{
+    width:320px ;
+    font-size: 20px;
+    font-size: 20px;
+    padding-left: 40px;
+    font-weight: bolder;
+}
+.h12{
+    width: 320px;
+    margin-top: 20px;
+    font-size: 17px;
+    padding-left: 40px;
+  
+}
+.list3{
+    width: 400px;
+}
+.list{
+    width:400px;
+}
+.mylist{
+    width:320px ;
+    font-size: 20px;
+   margin-left: 40px;
+    font-weight: bolder;
+    padding-top: 30px;
+}
+.h13{
+    width: 320px;
+    height: 150px;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 40px;
+   
+   
+}
+.h14{
+    width:320px ;
+    padding-left: 40px;
+    color: black;
+    font-size: 20px;
+    font-size: 20px;
+    margin-top: 70px;
+    font-weight: bolder;
+}
+.h15{
+    width: 320px;
+    color: black;
+    height: 50px;
+    padding-left: 40px;
+    font-size: 17px;
+   
+}
+.analiz{
+    font-size: 20px;
+   font-weight: bolder;
+   padding-top: 30px;
+   margin-left: 40px;
+  
+}
+.h16{
+    font-size: 17px;
+    height: 120px;
+  margin-left: 40px;
+   
+    
+}
+.h17{
+    width: 320px;
+    color: black;
+    font-size: 20px;
+   font-weight: bolder;
+   padding-left: 40px;
+   margin-top: 50px;
+}
+.h18{
+    width: 320px;
+    color: black;
+    margin-top: 30px;
+    font-size: 17px;
+    padding-left: 40px;
+}
+.h19{
+    width: 320px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 40px;
+    
+}
+.h20{
+    width: 320px;
+    margin-top: 30px;
+    font-size: 17px;
+    padding-left: 40px;
+   
+}
+.white{
+background-color: white;
+width: 360px;
+}
+.white2{
+    background-color: white;
+    width: 360px;
+}
+.white3{
+    background-color: white;
+    width: 400px;
+}
+.white4{
+    background-color: white;
+    width: 360px;
+    height: 200px;
+    margin-top: 30px;
+}
+.white5{
+    background-color: white;
+    width: 360px;
+}
+.desc1{
+    width: 360px;
+}
+.desc2{
+    width: 360px;
+}
+.desc3{
+    width: 360px;
+}
+.desc4{
+    width: 360px;
+}
+.p1{
+    font-size: 40px;
+    color:#4832F4 ;
+}
+.woo{
+    font-size: 30px;
+    font-weight: 600;
+    
+}
+.work{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: bolder;
+   
+}
+.list5 li{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.ourrules{
+    background-color: whitesmoke;
+}
+.notdoing{
+    background-color:rgb(3, 3, 46);
+    height: 1170px;
+}
+.h22{
+    font-size: 60px;
+    margin-top: 50px;
+    font-weight: bolder;
+    color:red;
+    text-align: center;
+}
+.redcross{
+    width: 700px;
+}
+.myredcross{
+    width: 700px;
+}
+.desc{
+    color: white;
+
+}
+.desc2{
+    color: white;
+}
+.desc3{
+    color: white;
+}
+.desc4{
+    color: white;
+}
+.desc5{
+    color: white;
+}
+.desc7{
+    color: white;
+}
+.wpw{
+    margin: 0 auto;
+}
+.text6{
+    text-align: center;
+    width: 800px;
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 70px;
+}
+.text7{
+    font-size: 25px;
+    font-weight: 300;
+}
+.wordpress{
+    width: 700px;
+}
+.p2{
+    font-size: 40px;
+    color:#4832F4 ;
+    margin-top: 60px;
+}
+.have{
+    font-size: 30px;
+    font-weight: 600;
+}
+.text8{
+    font-size: 25px;
+    font-weight: 300;
+}
+.p3{
+    font-size: 40px;
+    color:#4832F4 ;
+    margin-top: 60px;
+
+}
+.produce{
+    font-size: 30px;
+    font-weight: 600;
+}
+.text9{
+    font-size: 25px;
+    font-weight: 300;
+}
+.p4{
+    font-size: 40px;
+    color:#4832F4 ;
+    margin-top: 90px;
+}
+.text10{
+    font-size: 25px;
+    font-weight: 300;
+}
+.garant{
+    font-size: 30px;
+    font-weight: 600;
+}
+.nambers{
+margin-left: 70px;
+}
+.parts{
+    display: flex;
+    height: 950px;
+}
+.php{
+    display: flex;
+}
+.my{
+    display: flex;
+}
+.redis{
+    display: flex;
+}
+.mem{
+    display: flex;
+}
+.nix{
+    display: flex;
+}
+.apach{
+    display: flex;
+
+}
+.parts1{
+    display: flex;
+}
+.html{
+    display: flex;
+}
+.java{
+    display: flex;
+}
+.css{
+    display: flex;
+}
+.gulp{
+    display: flex;
+}
+.grunt{
+    display: flex;
+}
+.webpack{
+    display: flex;
+}
+.gutenberg{
+    display: flex;
+}
+.mykeys{
+    display: flex;
+    height: 750px;
+}
+.rules{
+    display: flex;
+}
+.bigcross1{
+    color: red;
+}
+.cross{
+    display: flex;
+    font-family: 'Roboto', sans-serif; 
+    font-size: 23px;
+}
+.desc1{
+    color: white;
+}
+.mydiamond{
+    display: flex;
+}
+.dollar{
+    display: flex;
+}
+.support{
+    display: flex;
+}
+.navigation{
+    justify-content: center;
+}
+.we{
+    text-align: center;
+    color: lightskyblue;
+    font-size: 65px;
+    font-weight: bolder;
+}
+.myclear{
+    margin-top: 50px;
+    width: 700px;
+    margin-left: 50px;
+}
+.clear{
+    font-size: 30px;
+    color: white;
+}
+.audit{
+    font-size: 30px;
+    color: white;
+    margin-top: 40px;
+    width: 800px;
+}
+.question{
+    font-size: 70px;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+.mydollar{
+    width: 850px;
+    font-size: 28px;
+    font-weight: bolder;
+}
+.myplans{
+    font-size: 35px;
+    color:#4832F4 ;
+    font-weight: bolder;
+    margin-left: 155px;
+
+}
+.plan{
+    margin-top: 100px;
+    background-color: rgba(51, 7, 7, 0.082);
+}
+.mysupport{
+    width: 400px;
+    height: 365px;
+    background-color: white;
+}
+.twenty{
+    font-size: 20px;
+    text-align: center;
+}
+.hours{
+    font-size: 35px;
+    color: #4832F4 ;
+    font-weight: bolder;
+    margin-top: 30px;
+    text-align: center;
+}
+.projects{
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+.mydevelop{
+    font-size: 20px;
+    text-align: center;
+}
+.fifty{
+    font-size: 35px;
+    color:white;
+    font-weight: bolder;
+    margin-top: 30px;
+    text-align: center;
+}
+.tasks{
+    font-size: 20px;
+    margin-top: 100px;
+    text-align: center;
+}
+.develop{
+    width: 400px;
+    margin-left: 50px;
+    background-color:#4832F4 ;
+    color: white;
+}
+.start{
+    width: 400px;
+    margin-left: 50px;
+    background-color: white;
+}
+.mystart{
+    font-size: 20px;
+    text-align: center;
+}
+.hundred{
+    width: 182px;
+    font-size: 35px;
+    color: #4832F4 ;
+    margin: 0 auto;
+    font-weight: bolder;
+    margin-top: 30px;
+ 
+    
+  
+}
+.must{
+    font-size: 20px;
+    padding-top: 50px;
+    margin: 0 auto;
+    width: 190px;
+    
+}
+.variant{
+    width: 400px;
+    background-color: white;
+    margin-left: 20px;
+}
+.myvariant{
+    width: 190px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.budget{
+    margin-top: 100px;
+    font-size: 20px;
+    margin-top: 180px;
+    width: 190px;
+    text-align: center;
+}
+.mysupport{
+margin-left: 20px;
+width: 350px;
+}
+.support{
+    margin-top: 70px;
+}
+.carousel-inner{
+    height: 1000px;
+    
+}
+.carousel-item{
+    height: 1000px;
+}
+.mysliders{
+    height: 1000px;
+    width:900px ;
+    background-color:whitesmoke ;
+}
+.headerslidersfirst{
+height: 250px;
+background-color: #4832F4;
+}
+.headersliderssecond{
+    height: 250px;
+background-color: #B632F4;
+}
+.headerslidersthird{
+    height: 250px;
+   background-color:#6BBE69 ; 
+}
+.headerslidersforth{
+    height: 250px;
+    background-color: #F596CF;
+}
+.numbers{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  
+}
+.myshop{
+    padding-top: 50px;
+    width: 400px;
+    margin: 0 auto;
+    padding-left: 50px;
+    font-size: 45px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.shop{
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+
+}
+.nisha{
+    margin: 0 auto;
+    width: 200px;
+    font-size: 15px;
+}
+.blue{
+width: 200px;
+margin-left: 90px;
+
+}
+.bluesecond{
+    width: 300px;
+}
+.bluethird{
+    width: 300px;
+}
+.hours{
+    margin-top: 0;
+    color: white;
+    margin-left: -80px;
+    font-size: 25px;
+}
+.tarif{
+    margin-left: 45px;
+}
+.mysite{
+    font-weight: bolder;
+    width: 200px;
+}
+.myage{
+    font-weight: bolder;
+}
+.site{
+    width: 200px;
+}
+.task{
+    width: 700px;
+    display: block;
+    margin-top: 30px;
+    color:black;
+    font-weight: bolder;
+    margin-left: 50px;
+    font-size: 15px;
+    font-family:'Roboto', sans-serif; 
+}
+.list{
+    margin-top: 20px;
+}
+.mydecision{
+    display: flex;
+    color: black;
+}
+.monthfirst{
+    width: 600px;
+    font-family:'Roboto', sans-serif; 
+    font-size: 18px;
+    margin-left: 50px;
+}
+.list1{
+    margin-top: 20px;
+}
+.time1{
+    margin-top: 25px;
+    font-size: 15px;
+    font-weight: bolder;
+
+}
+.mydecision1{
+    display: flex;
+    color: black;
+}
+.monthsecond{
+    width: 600px;
+    font-family:'Roboto', sans-serif; 
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 30px;
+
+
+}
+.list2{
+    margin-top: 20px;
+}
+.time2{
+    margin-top: 25px;
+    font-size: 15px;
+    font-weight: bolder;
+    
+}
+.times2{
+    margin-top: 50px;
+}
+.monththird{
+    width: 600px;
+    font-family:'Roboto', sans-serif; 
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.mydecision3{
+    display: flex;
+    color: black;
+}
+.month3{
+    font-weight: bolder;
+    font-size: 17px;
+    color: black;
+}
+.list3{
+    margin-top: 20px;
+}
+.times3{
+    margin-top: 50px;
+}
+.time3{
+    margin-top: 25px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.service{
+    padding-top: 50px;
+    width: 600px;
+    margin: 0 auto;
+    padding-left: 50px;
+    font-size: 45px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+}
+.numberssecond{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.monthfirst{
+    display: flex;
+}
+.hoursfirst{
+    color:black;
+    margin-left: 80px;
+    
+
+    
+}
+.month{
+    color:black;
+    margin-left: 50px;
+}
+.time2{
+    font-size: 15px;
+    color:black;
+    font-weight: bolder;
+    width: 100px;
+}
+.mymonth2{
+    
+    display: flex;
+    color: black;
+}
+.month2{
+    color: black;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.list1{
+width: 600px;
+font-weight: bolder;
+font-size: 18px;
+}
+.mymonth{
+    width: 600px;
+    color: black;
+}
+.mymonthsecond{
+    width: 600px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.hourssecond{
+    font-size: 15px;
+    color:black;
+    font-weight: bolder;
+    width: 100px;
+    margin-top: 30px;
+}
+.time3{
+    font-size: 15px;
+    color:black;
+    font-weight: bolder;
+    width: 100px;
+    margin-left: 80px;
+    margin-top: 30px;
+
+}
+.mymonththird{
+    display: flex;
+}
+.month3{
+    color: black;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.mymonththird{
+    width: 600px;
+
+}
+.list3{
+    width: 600px;
+margin-left: 50px;
+font-size: 22px;
+color: black;
+}
+.hoursthird{
+    font-size: 15px;
+    color:black;
+    font-weight: bolder;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 550px;
+
+}
+.lilac{
+    width: 900px;
+}
+.lilaclist{
+color: black;
+}
+.lilaclist1{
+    text-align: left;
+    font-family:'Roboto', sans-serif; 
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.carousel-inner{
+    margin-top: 100px;
+}
+.flag{
+    display: flex;
+}
